@@ -1,0 +1,22 @@
+{
+  "name": "Catallector",
+  "version": "0.0.0",
+  "description": "Catallector, game catalog system",
+  "dependencies": {
+    "express": "*",
+    "socket.io":"*",
+    "thegamesdb":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sweggr/Catallector"
+  },
+  "keywords": [
+    "node",
+    "Videogames"
+  ],
+  "author": "Khal",
+  "contributors": [
+    "Khal <Segger@Spaghett.net> (http://Spaghett.net)"
+  ]
+}

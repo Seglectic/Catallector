@@ -1,0 +1,19 @@
+
+
+body{
+	background:rgb(50,50,100);
+	font-family:monospace, courier;
+	color:white;
+}
+
+#title{
+	font-size: 250%;
+}
+
+#footer{
+	position: absolute;
+	right: 5;
+	bottom: 5;
+	font-size: 80%;
+	font-style: italic;
+}
